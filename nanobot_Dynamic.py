@@ -1,5 +1,5 @@
 """
-  Author  : Yash Yaduvanshi
+  Author  : Sujal yadav
 """
 import numpy as np
 import matplotlib
