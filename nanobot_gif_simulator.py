@@ -3,9 +3,9 @@
   Robothon 2026 - Project 4b: Chemotactic Plume Tracking
   ROBOTiX Club, NIT Raipur | ANANTYA'26
 =============================================================
-  Author  : Yash Yaduvanshi
-  GitHub  : https://github.com/yash2yaduvanshi
-  LinkedIn: https://www.linkedin.com/in/yash-yaduvanshi-2f2008/
+  Author  : Sujal Yadav
+  GitHub  : https://github.com/sujalyadav1
+  LinkedIn: https://www.linkedin.com/in/sujalyadav1/
 
   DYNAMIC ANIMATED VERSION with Kalman Filter
   All 6 panels update live — nanobot moves in real time
